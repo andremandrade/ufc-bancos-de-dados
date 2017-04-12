@@ -7,3 +7,4 @@
 * [Modelo Relacional](https://drive.google.com/open?id=1wBYxGVxglgNVy0D5FSdpzS7LGaYJ1m36S95i-7iFmz4)
 * [Mapeamento MER x MR](https://drive.google.com/open?id=1ue2QW_yUUCSUjLfFp9omQN8sz_qWOrgOciRMIZ_4Kk0)
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
+  * [RelaX - relational algebra calculator](relax-conf.md)
