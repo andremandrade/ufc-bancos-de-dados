@@ -10,7 +10,7 @@
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
  * [RelaX - relational algebra calculator](relax-conf.md)
 
-### Unidade 1
+### Unidade 2
 * [SQL - DDL - Básico](https://drive.google.com/open?id=1I21sC--ZbYov2FpWxnOcjJrLbROA3CXqz6k24W91GZc)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
 * [SQL - Consultas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
