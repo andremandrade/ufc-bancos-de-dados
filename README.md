@@ -8,9 +8,10 @@
 * [Modelo Relacional](https://drive.google.com/open?id=1wBYxGVxglgNVy0D5FSdpzS7LGaYJ1m36S95i-7iFmz4)
 * [Mapeamento MER x MR](https://drive.google.com/open?id=1ue2QW_yUUCSUjLfFp9omQN8sz_qWOrgOciRMIZ_4Kk0)
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
- * [RelaX - relational algebra calculator](relax-conf.md)
+  * [RelaX - relational algebra calculator](relax-conf.md)
 
 ### Unidade 2
+* Ferramenta SQL Online: [SQL Fiddle](http://sqlfiddle.com)
 * [SQL - DDL - Básico](https://drive.google.com/open?id=1I21sC--ZbYov2FpWxnOcjJrLbROA3CXqz6k24W91GZc)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
 * [SQL - Consultas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
