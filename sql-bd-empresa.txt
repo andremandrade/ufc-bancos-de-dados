@@ -1,7 +1,7 @@
 group:UFC-BD-Empresa
 
-Alocacao = {
-	codProj:number, matrEmp:number, numHoras:number
+alocacao = {
+	projeto_id:number, empregado_id:number, num_horas:number
 	1                , 1                  , 10              
 	1                , 3                  , 10              
 	1                , 5                  , 20              
@@ -25,16 +25,16 @@ Alocacao = {
 	6                , 14                 , 30              
 }
 
-Departamento = {
-	codDepto:number, nomeD:string, matrGerente:number
+departamento = {
+	id:number, nome:string, gerente_id:number
 	1        , 'Rock'     , 3                
 	2        , 'Blues'    , 9                
 	3        , 'Jazz'     , 12               
 	4        , 'Pop'      , 16               
 }
 
-DepLocalizacoes = {
-	codDepto:number, localizacao:string   
+departamento_localizacao = {
+	departameto_id:number, localizacao:string   
 	1                    , 'Santa Luzia - PB'   
 	2                    , 'Piracuruca - PI'    
 	2                    , 'Rio de Janeiro - PB'
@@ -43,8 +43,8 @@ DepLocalizacoes = {
 	4                    , 'Marabá - PA'        
 }
 
-Empregado = {
-	matr:number, cpf:string   , nomeE:string       , endereco:string    , sexo:string, salario:number, supervisor:number, depto:number
+empregado = {
+	id:number, cpf:string   , nome:string       , endereco:string    , sexo:string, salario:number, supervisor_id:number, departamento_id:number
 	1        , '00000000000', 'Paul Mcartney'   , 'Rua Madalena'     , 'M'        , 2000          , 3                   , 1                     
 	2        , '11111111111', 'Jhon Lenon'      , 'Rua Benfica'      , 'M'        , 2500          , 3                   , 2                     
 	3        , '22222222222', 'Brenda Lee'      , 'Rua Boa Vista'    , 'F'        , 8000          , 16                  , 3                     
@@ -63,8 +63,8 @@ Empregado = {
 	16       , '11100055555', 'Steve Harris'    , 'Rua de Cima'      , 'M'        , 15000         , null                , 4                     
 }
 
-Dependentes = {
-	matrEmp:number, nomeDep:string    , sexo:string, dataNasc:date		 , parentesco:string
+empregado_dependente = {
+	empregado_id:number, nome:string    , sexo:string, nascimento:date		 , parentesco:string
 	3                  , 'Bruce Lee'    , 'M'        , 1950-02-10   , 'PAI'            
 	3                  , 'Brandon Lee'  , 'M'        , 1980-03-20   , 'FILHO'          
 	5                  , 'John Osbourne', 'M'        , 1955-04-30   , 'PAI'            
@@ -73,8 +73,8 @@ Dependentes = {
 	8                  , 'Roger Mustain', 'M'        , 1991-08-07   , 'IRMAO'          
 }
 
-Projeto = {
-	codProj:number, nome:string        , localizacao:string, deptoControla:number
+projeto = {
+	id:number, nome:string        , localizacao:string, departamento_id:number
 	1        , 'Fear of the Dark' , 'Jericó - PB'     , 1                     
 	2        , 'A Love Supreme'   , 'Piracuruca - PI' , 2                     
 	3        , 'Texas Flood'      , 'Itapipoca - CE'  , 3                     
