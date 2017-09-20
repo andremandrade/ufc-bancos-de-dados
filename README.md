@@ -9,7 +9,8 @@
 * [Mapeamento MER x MR](https://drive.google.com/open?id=1ue2QW_yUUCSUjLfFp9omQN8sz_qWOrgOciRMIZ_4Kk0)
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
   * [RelaX - relational algebra calculator](relax-conf.md)
-  * [Exercicios](exercicios/lista-9.md)
+  * [Lista de Exercícios 01](exercicios/lista-9.md)
+  * [Lista de Exercícios 02](exercicios/lista-10.md)
 
 ### Unidade 2
 * Ferramenta SQL Online: [SQL Fiddle](http://sqlfiddle.com)
