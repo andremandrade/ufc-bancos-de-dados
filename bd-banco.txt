@@ -1,0 +1,88 @@
+group:UFC-BD-Banco
+
+
+Agencia = {
+
+numAg:number, Cidade:String
+1,  'Crateus'
+2, 'Mossoro'
+3, 'Rio de Janeiro'
+}
+
+
+
+Funcionario = {
+
+nomeFun:string, endereco:string, codigo:string, salario:number, agencia:number
+
+'Roberto', 'Rua A', 'ABC', 1200.0, 1
+'Lucas', 'Rua B', 'JJJJ', 800.0, 1
+'Antonio', 'Rua C', 'CCCC', 220.0, 1
+
+}
+
+
+
+Conta = {
+
+numConta:number, saldo:number, rgCliente:string, agencia:number
+
+1, 1500.0, '20202020202', 1
+2, 300.0, '20031131323', 1
+3, 450.0, '9483938393', 2
+4, 8000.0, '234234524323', 2
+5, 100.0, '7777777777', 3
+
+
+}
+
+
+
+ClienteAgencia = {
+
+rgCliente:string, agencia:number
+
+'20202020202', 1
+'20031131323', 1
+'9483938393', 2
+'234234524323', 2
+'7777777777', 3
+
+
+}
+
+
+
+Cliente = {
+
+nomeCli:String, rg:String, cidade:String
+
+'Joao', '20202020202', 'Crateus'
+'Marcos Lucas', '20031131323', 'Crateus'
+'Ze Roberto', '9483938393', 'Mossoro'
+'Marlucio', '234234524323', 'Mossoro'
+'Robervalod', '7777777777', 'Rio de Janeiro'
+
+
+}
+
+
+
+Transacao = {
+
+numTran:number, Data:date, Valor:number, conta:number
+
+1, 1950-02-10, 200, 1
+1, 1950-02-10, 300, 1
+1, 1950-02-10, 1200, 1
+1, 1950-02-10, 6660, 1
+1, 1950-02-10, 50, 3
+1, 1950-02-10, 1800, 2
+1, 1950-02-10, 3020, 2
+1, 1950-02-10, 130, 2
+1, 1950-02-10, 193093, 3
+1, 1950-02-10, 93, 3
+
+
+
+}
