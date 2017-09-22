@@ -12,3 +12,6 @@ Considere o modelo a seguir e escreve as consultas descritas abaixo utilizando a
 1. Consulte o RG e o nome de clientes que cadastrados na agência de Crateús ou que fizeram transações abaixo de 200 reais.
 1. Consulte o nome dos clientes que possuem contas nas mesma agência que o cliente Sandro Vagner Lima.
 1. Consulte o nome dos funcionários que trabalham em agências que possuem algum cliente com o nome idêntico ao dele.
+1. Consulte os nome do cliente e o número da conta nas contas que ainda não possuem transações
+1. Consulte os nome dos clientes e dos funcionários das agencias da cidade de IPU (em uma única coluna).
+
