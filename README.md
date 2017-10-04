@@ -9,12 +9,13 @@
 * [Mapeamento MER x MR](https://drive.google.com/open?id=1ue2QW_yUUCSUjLfFp9omQN8sz_qWOrgOciRMIZ_4Kk0)
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
   * [RelaX - relational algebra calculator](relax-conf.md)
-  * [Lista de Exercícios 01](exercicios/lista-9.md)
-  * [Lista de Exercícios 02](exercicios/lista-10.md)
+  * [Lista de Exercícios 01](exercicios/lista-5.1.md)
+  * [Lista de Exercícios 02](exercicios/lista-5.2.md)
 
 ### Unidade 2
 * Ferramenta SQL Online: [SQL Fiddle](http://sqlfiddle.com)
 * [SQL - DDL - Básico](https://drive.google.com/open?id=1I21sC--ZbYov2FpWxnOcjJrLbROA3CXqz6k24W91GZc)
+  * [Lista de Exercícios](exercicios/lista-5.1.md)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
 * [SQL - Consultas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
 * [SQL - Asserções, Gatilho e Visões](https://drive.google.com/open?id=1mk3qPFa8CqGVEgOQd6buhlLWy-99chrFBNGLxMk4C2k)
