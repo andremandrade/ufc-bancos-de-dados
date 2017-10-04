@@ -16,12 +16,12 @@
 * Ferramenta SQL Online: [SQL Fiddle](http://sqlfiddle.com)
 * [SQL - DDL - Básico](https://drive.google.com/open?id=1I21sC--ZbYov2FpWxnOcjJrLbROA3CXqz6k24W91GZc)
   * [Lista de Exercícios](exercicios/lista-5.1.md)
+* [MySQL - Modelagem e Construção](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
 * [SQL - Consultas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
 * [SQL - Asserções, Gatilho e Visões](https://drive.google.com/open?id=1mk3qPFa8CqGVEgOQd6buhlLWy-99chrFBNGLxMk4C2k)
 
 ### Unidade 3
-* [MySQL - Modelagem e Construção](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
 * [Dependencia Funcional e Normalizacão](http://drive.google.com/open?id=1bvx4hvj13ijcQDa_KhEc8e5E4qHS9CRCFi2_9g8WkcM)
 * [MySQL - Manipulação](http://drive.google.com/open?id=1s1bB1s1FeNy8CWBA8yHL1Uw29K7NRy0DyjGhCS0A_As)
 * [Conceitos e teoria de processamento de transações](http://drive.google.com/open?id=1FBYoErQmhqhP-etwd7ArKn7B1sr7REC1Ngl8Jwo9sN8)
