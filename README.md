@@ -15,7 +15,7 @@
 ### Unidade 2
 * Ferramenta SQL Online: [SQL Fiddle](http://sqlfiddle.com)
 * [SQL - DDL - Básico](https://drive.google.com/open?id=1I21sC--ZbYov2FpWxnOcjJrLbROA3CXqz6k24W91GZc)
-  * [Lista de Exercícios](exercicios/lista-5.1.md)
+  * [Lista de Exercícios](exercicios/lista-6.1.md)
 * [MySQL - Modelagem e Construção](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
 * [SQL - Consultas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
