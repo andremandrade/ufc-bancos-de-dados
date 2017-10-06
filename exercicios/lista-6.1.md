@@ -17,7 +17,7 @@ Escreva as instruções DDL da SQL para declarar o esquema de banco de dados rel
 `empregado_dependente (empregado_id, nome, sexo, data_nascimento, parentesco)`
 
 *REGRAS DE NEGÓCIO:*
-1. O empregado pode ficar eventualmente não ter supervisor ou não estar lotado em nenhum departamento.
+1. O empregado pode ficar eventualmente sem supervisor ou não estar lotado em nenhum departamento.
 1. O CPF do empregado deve ser único.
 1. O departamento pode ficar eventualmente sem gerente.
 1. A localização só deve existir se estiver associada a algum departamento, por isso, caso um departamento seja apagado, suas localizações também devem ser apagadas.
