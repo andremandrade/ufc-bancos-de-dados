@@ -18,6 +18,7 @@
   * [Lista de Exercícios](exercicios/lista-6.1.md)
 * [MySQL - Modelagem e Construção](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
+  * [Lista de Exercícios](https://drive.google.com/open?id=1bGpGdX41DGF8ZQQ7NIptmO26KmZcqGKByzKTvV0-Q08)
 * [SQL - Consultas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
 * [SQL - Asserções, Gatilho e Visões](https://drive.google.com/open?id=1mk3qPFa8CqGVEgOQd6buhlLWy-99chrFBNGLxMk4C2k)
 
