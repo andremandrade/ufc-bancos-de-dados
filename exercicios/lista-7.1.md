@@ -19,7 +19,7 @@ Escreva as instruções DDL da SQL para declarar o esquema de banco de dados rel
 Utilizando linguagem SQL, execute as seguintes operações no banco acima:
 
 1. Insira uma tupla em cada tabela
-1. Altere o código do departamento que controla os projetos localizados em Brasília para o código 25
+1. Faça com que os projetos localizados em Brasília passem a ser controlados pelo departamento de código 25
 1. Remova os dependentes com grau de parentesco “filho(a)” do sexo masculino que têm mais de 21 anos.
 
 Utilizando linguagem SQL, execute as seguintes consultas no banco acima:
