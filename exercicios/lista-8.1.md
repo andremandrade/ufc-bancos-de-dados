@@ -2,7 +2,7 @@
 
 ## Lista 1
 
-![modelo-banco](https://lh4.googleusercontent.com/XY-PxyDXaytsabQK2Y5tq1UWZYvIWAeTEYPloyuRkgcdvUWmKdMbxsT_7S4jCE8HNdTNseR9UuDCq-M=w1366-h628-rw)
+![modelo-banco](https://raw.githubusercontent.com/andremeirelesa/ufc-bancos-de-dados/master/images/bd-algebra-relacional-modelo02.png)
 
 1. Consulte o nome dos clientes que possuem transações maiores que todas as transações de "Joao Silva" (Dica: use ALL)
 1. Consulte os nomes dos clientes que não possuem nenhuma conta (Dica: use EXISTS) 
