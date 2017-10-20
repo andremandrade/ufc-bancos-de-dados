@@ -20,6 +20,7 @@
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
   * [Lista de Exercícios](exercicios/lista-7.1.md)
 * [SQL - Consultas Avançadas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
+  * [Lista de Exercícios](https://docs.google.com/document/d/1ck4EICCb8nddxl36jb221vZGzlQ6uhcVSpYW73xcw6o/edit?usp=sharing)
 * [SQL - Asserções, Gatilho e Visões](https://drive.google.com/open?id=1mk3qPFa8CqGVEgOQd6buhlLWy-99chrFBNGLxMk4C2k)
 
 ### Unidade 3
