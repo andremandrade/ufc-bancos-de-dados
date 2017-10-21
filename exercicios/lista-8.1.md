@@ -9,7 +9,7 @@
 1. Consulte o nome dos clientes cadastrados nas mesmas agências onde a cliente "Ana Maria" está cadastrada. (Dica: Use EXISTS e EXCEPT)
 1. Consulte o RG dos clientes cadastrados nas agências de número 1, 2 ou 3 (Dica: use conjunto como constante)
 1. Consulte o número das agências que possuem pelo menos uma conta que não tem transação.
-1. Consulte o RG dos clientes com saldo maior que que o saldo do cliente de maior saldo das agências de Crateús.
+1. Consulte o RG dos clientes com saldo maior que o saldo do cliente de maior saldo das agências de Crateús.
 1. Consulte do nome do cliente, o número das contas, o saldo, os valores das transações e as datas das transações de todos os clientes das agências de Sobral. Use JOIN.
 1. Consulte os nome dos funcionários que trabalham em agência que possuem algum cliente com o mesmo nome daquele funcionário.
 1. Consulte o RG, o nome, e o número da contas de TODOS os clientes. Caso o cliente não possua conta, o número da conta deve apresentar o valor NULL.
