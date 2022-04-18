@@ -10,7 +10,7 @@
 * [Mapeamento MER x MR](https://drive.google.com/open?id=1ue2QW_yUUCSUjLfFp9omQN8sz_qWOrgOciRMIZ_4Kk0)
   * Laboratório: Mapeie os MER da [Lista 1](https://docs.google.com/document/d/125keCkbNjf0MZM3PXv3u2xqRtyJoMC8fQxcM3u4HoPI/edit?usp=sharing) para o esquema relacional.
   * [Lista 3](https://docs.google.com/document/d/1dFWVYL9VfOEaMNX5KUnissp4M9_Bx8UxuGHO3tf9W48/edit?usp=sharing)
-* [Modelo de Entidade e Relacionamento Extendido](https://drive.google.com/open?id=1XfTijKrRKd-7EZS9zN3vIQYu5LXLEwVEsAcVMh3_dps)
+* [Modelo de Entidade e Relacionamento Estendido](https://drive.google.com/open?id=1XfTijKrRKd-7EZS9zN3vIQYu5LXLEwVEsAcVMh3_dps)
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
   * [RelaX - relational algebra calculator](relax-conf.md)
   * [Lista de Exercícios 01](exercicios/lista-5.1.md)
