@@ -3,7 +3,7 @@
 
 Para utilizar o nosso banco de dados no RelaX, você pode seguir os passos abaixo:
 
-* Acesse o site da ferramenta: http://dbis-uibk.github.io/relax/calc.htm
+* Acesse o site da ferramenta: https://dbis-uibk.github.io/relax/
 * Clique no menu superior esquerdo `UIBK - R, S, T` (1) e em seguida no botão `create new Dataset` (2), conforme a imagem a seguir:
 
 ![relax01](images/relax01.png)
