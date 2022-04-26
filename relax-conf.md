@@ -4,15 +4,9 @@
 Para utilizar o nosso banco de dados no RelaX, você pode seguir os passos abaixo:
 
 * Acesse o site da ferramenta: https://dbis-uibk.github.io/relax/
-* Clique no menu superior esquerdo `UIBK - R, S, T` (1) e em seguida no botão `create new Dataset` (2), conforme a imagem a seguir:
-
-![relax01](images/relax01.png)
-
-* Copie o conteúdo do arquivo [relax-bd-empresa.txt](relax-bd-empresa.txt) no editor exibido
-* Clique no botão `preview`, na parte inferior.
-* Os dados serão exibidos, em seguida, clique no botão `use Group in editor`, na parte inferior
-* As relações (tabelas) do bancos já devem ser estar exibidas no canto superior esquerdo (1), conforme a imagem abaixo:
-
-![relax02](images/relax02.png)
-
-* Clique em `Relational Algebra`, apresentado na imagem acima (2), e comece a realizar as consultas.
+* Clique em **GET STARTED**
+* No lado superior esquerdo, clique em **Select DB (UIBK - R, S,T)**
+* Quando abrir o pop-up, clique em **Criar nodo Dataset**
+* Na, aba **Editor de Grupo**, copie no editor o conteúdo desse arquivo: [RELAX-BD-EMPRESA.TXT](https://raw.githubusercontent.com/andremeirelesa/ufc-bancos-de-dados/master/relax-bd-empresa.txt)
+* Clique em **Visualizar** e em seguida em **Use Grupo no Editor**
+* Vá para aba **Álgebra Relacional** e realize as consultas
