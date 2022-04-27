@@ -14,7 +14,7 @@
   * [Lista 4](https://docs.google.com/document/d/198bqAr1kpQDNYI3cxV5x26jIiV1D2r5Dr0863Aszr_U/edit?usp=sharing)
 * [Álgebra Relacional](https://drive.google.com/open?id=1T_u8VMd9ljc3VqDAErhzqZPUsTXIlI-IyxS_kt6ZQIY)
   * [RelaX - relational algebra calculator](relax-conf.md)
-  * [Lista de Exercícios 01](exercicios/lista-5.1.md)
+  * [Lista de Exercícios 01](exercicios/lista-5.1.v2.md)
   * [Lista de Exercícios 02](exercicios/lista-5.2.md)
 
 ### Unidade 2
