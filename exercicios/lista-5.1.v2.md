@@ -1,6 +1,6 @@
 # Álgebra Relacional
 
-## Lista 1 - Versão 2 (Relax)
+## Lista 5 - Versão 2 (Relax)
 
 Considere o modelo a seguir e escreve as consultas descritas abaixo utilizando as operações da álgebra relacional.
 
