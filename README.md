@@ -20,8 +20,8 @@
 ### Unidade 2
 * Ferramenta SQL Online: [RELAX](https://dbis-uibk.github.io/relax/calc/local/uibk/local/0)
 * [SQL - DDL - Básico](https://drive.google.com/open?id=1I21sC--ZbYov2FpWxnOcjJrLbROA3CXqz6k24W91GZc)
+  * [MySQL - Instalação, execução e acesso](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
   * [Lista de Exercícios](exercicios/lista-6.1.md)
-* [MySQL - Modelagem e Construção](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
   * [Lista de Exercícios](exercicios/lista-7.1.md)
 * [SQL - Consultas Avançadas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
