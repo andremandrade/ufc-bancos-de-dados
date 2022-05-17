@@ -1,6 +1,6 @@
-# SQL - DDL
+# Lista 6
 
-## Lista 1
+## SQL - DDL
 
 Escreva as instruções DDL da SQL para declarar o esquema de banco de dados relacional a seguir.
 
