@@ -23,9 +23,9 @@
   * [MySQL - Instalação, execução e acesso](http://docs.google.com/presentation/d/1G9aglX3x5Rvy0qZaS3_nPTdzAER4EflgCsOn6AFCJCk)
   * [Lista de Exercícios 6](exercicios/lista-6.1.md)
 * [SQL - DML - Básico](https://drive.google.com/open?id=1FT85SkldQPwp5AdGSXlR5XYT0R-98xF-7hBDKedF47w)
-  * [Lista de Exercícios](exercicios/lista-7.1.md)
+  * [Lista de Exercícios 7](exercicios/lista-7.1.md)
 * [SQL - Consultas Avançadas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
-  * [Lista de Exercícios](exercicios/lista-8.1.md)
+  * [Lista de Exercícios 8](exercicios/lista-8.1.md)
 * [SQL - Asserções, Gatilho e Visões](https://drive.google.com/open?id=1mk3qPFa8CqGVEgOQd6buhlLWy-99chrFBNGLxMk4C2k)
 * [MySQL - Manipulação e Outros recursos](http://drive.google.com/open?id=1s1bB1s1FeNy8CWBA8yHL1Uw29K7NRy0DyjGhCS0A_As)
 
