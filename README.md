@@ -27,7 +27,7 @@
 * [SQL - Consultas Avançadas](https://drive.google.com/open?id=12FElkhW_TdgN7JD30iuT_7QGwrL7la5akGHxPoRqR3U)
   * [Lista de Exercícios 8](exercicios/lista-8.1.md)
 * [SQL - Asserções, Gatilho e Visões](https://drive.google.com/open?id=1mk3qPFa8CqGVEgOQd6buhlLWy-99chrFBNGLxMk4C2k)
-* [MySQL - Manipulação e Outros recursos](http://drive.google.com/open?id=1s1bB1s1FeNy8CWBA8yHL1Uw29K7NRy0DyjGhCS0A_As)
+  * [Lista de Exercício 9](http://drive.google.com/open?id=1s1bB1s1FeNy8CWBA8yHL1Uw29K7NRy0DyjGhCS0A_As)
 
 ### Unidade 3
 * [Dependencia Funcional e Normalizacão](http://drive.google.com/open?id=1bvx4hvj13ijcQDa_KhEc8e5E4qHS9CRCFi2_9g8WkcM)
