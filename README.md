@@ -35,3 +35,21 @@
 * [Conceitos e teoria de processamento de transações](http://drive.google.com/open?id=1FBYoErQmhqhP-etwd7ArKn7B1sr7REC1Ngl8Jwo9sN8)
 * [Projeto JDBC - Acesso a bancos de dados com Java](http://docs.google.com/presentation/d/1mpmBkuJcQIifmuBOgh-Iupmw5ti0uU96nY6A9sR2Qlc/edit?usp=sharing)
 * [SGBDs - Sistemas Gerenciadores de Bancos de Dados](http://docs.google.com/presentation/d/1u1bjiIqEVVLBHYUyUCQtvLFhdxat8ns3J0bel2BMPb0/edit?usp=sharing)
+
+### Projeto - Aplicação Java para acesso ao MySQL com JDBC
+
+#### Tutorial: (https://docs.google.com/presentation/d/1twzCouyc1b3ZE6-4lzWrbNty4KfL01uOL51W8oRfl8Y/edit?usp=sharing)
+  
+#### Requisitos
+A aplicação deve fornecer interface gráfica ou de console que permita ao usuário executar as seguintes funções:
+
+1. Adicionar estudante: informar os dados e adicionar ao banco
+2. Atualizar estudante: informar a matrícula ou selecionar o estudante a ser atualizado, e em seguida informar os novos dados
+3. Remover estudante: informar a matrícula ou selecionar o estudante  a ser removido
+4. Listar estudantes: exibir os dados de todos os estudantes
+5. Buscar estudantes: informar uma string qualquer e o sistema deverá listar os estudante cuja a string informada seja parte do seu nome ou email.
+6. Exibir histórico de estudante: selecionar um estudante e listar as disciplinas que ele já cursou com o respectivo período, nota, e frequência.
+7. Listar, adicionar, atualizar e remover disciplina
+8. Buscar disciplina pelo nome
+9. Selecionar uma disciplina, selecionar um período, e exibir os alunos que cursaram aquela disciplina naquele período, com suas respectivas notas e frequência
+10. Selecionar uma disciplina, um aluno, um período e definir a nota e a frequência
