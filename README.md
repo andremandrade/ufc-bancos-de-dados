@@ -31,9 +31,7 @@
 
 ### Unidade 3
 * [Dependencia Funcional e Normalizacão](http://drive.google.com/open?id=1bvx4hvj13ijcQDa_KhEc8e5E4qHS9CRCFi2_9g8WkcM)
-
 * [Conceitos e teoria de processamento de transações](http://drive.google.com/open?id=1FBYoErQmhqhP-etwd7ArKn7B1sr7REC1Ngl8Jwo9sN8)
-* [Projeto JDBC - Acesso a bancos de dados com Java](http://docs.google.com/presentation/d/1mpmBkuJcQIifmuBOgh-Iupmw5ti0uU96nY6A9sR2Qlc/edit?usp=sharing)
 * [SGBDs - Sistemas Gerenciadores de Bancos de Dados](http://docs.google.com/presentation/d/1u1bjiIqEVVLBHYUyUCQtvLFhdxat8ns3J0bel2BMPb0/edit?usp=sharing)
 
 ### Projeto - Aplicação Java para acesso ao MySQL com JDBC
