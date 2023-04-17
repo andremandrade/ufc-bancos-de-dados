@@ -5,6 +5,7 @@
 * [Apresentação e conceitos iniciais](https://drive.google.com/open?id=1krhCp9Kb1fOWDtqxMN878f-EiGk4nTSM0DYEjHKD9Rg)
 * [Modelo de Entidade e Relacionamento (MER)](https://drive.google.com/open?id=1lUIdja9H6GxY9hwPMgsupfQOa3qOVk9jvoMkC6UMm10)
   * [Lista 1 - MER](https://docs.google.com/document/d/125keCkbNjf0MZM3PXv3u2xqRtyJoMC8fQxcM3u4HoPI/edit?usp=sharing) 
+  * [Tabelas](https://docs.google.com/presentation/d/1urcHei3s7MrFVAmaWjo_unBHNITkTMqCaEH-jVcbCJs/edit?usp=drivesdk)
 * [Modelo Relacional](https://drive.google.com/open?id=1wBYxGVxglgNVy0D5FSdpzS7LGaYJ1m36S95i-7iFmz4)
   * [Lista 2 - MR](https://docs.google.com/document/d/10G8javKmvfkSv4yb6BOzCH--621pR_fJ10uOWHa80a8/edit?usp=sharing) 
 * [Mapeamento MER x MR](https://drive.google.com/open?id=1ue2QW_yUUCSUjLfFp9omQN8sz_qWOrgOciRMIZ_4Kk0)
