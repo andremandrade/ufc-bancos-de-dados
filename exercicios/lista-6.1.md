@@ -4,17 +4,17 @@
 
 Escreva as instruções DDL da SQL para declarar o esquema de banco de dados relacional a seguir.
 
-`empregado (id, cpf, nome, endereco, sexo, salario, supervisor_id, departamento_id)`
+`empregado (**id**, cpf, nome, endereco, sexo, salario, supervisor_id, departamento_id)`
 
-`departamento (id, nome, gerente_id) `
+`departamento (**id**, nome, gerente_id) `
 
-`departamento_localizacao (departamento_id, localizacao)`
+`departamento_localizacao (**departamento_id**, **localizacao**)`
 
-`projeto (id, nome, localizacao, departamento_id)`
+`projeto (**id**, nome, localizacao, departamento_id)`
 
-`alocacao (projeto_id, empregado_id, numHoras)`
+`alocacao (**projeto_id**, **empregado_id**, numHoras)`
 
-`empregado_dependente (empregado_id, nome, sexo, data_nascimento, parentesco)`
+`empregado_dependente (**empregado_id**, nome, sexo, data_nascimento, parentesco)`
 
 *REGRAS DE NEGÓCIO:*
 1. O empregado pode ficar eventualmente sem supervisor ou não estar lotado em nenhum departamento.
